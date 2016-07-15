@@ -6,9 +6,9 @@ color:
   saturation: 0.17653577961027622
   rhythmicContrast: 0.9525889817159623
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
 name: JesDaMarSe
